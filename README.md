@@ -16,7 +16,7 @@ oh, hi. didn't expect you here.
 welcome to my little corner of github.
 ```
 
-hi, i'm **Tiffany** — but call me **Tifa**.
+hi, i'm **Tiffany** but call me **Tifa**.
 
 i like computers, figuring out how things work, going down incredibly specific internet rabbit holes and occasionally getting distracted by something completely unrelated.
 
