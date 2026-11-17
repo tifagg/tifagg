@@ -1,155 +1,137 @@
 # `tifagg@internet:~$`
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=venom&color=0:080808,50:171717,100:303030&height=190&section=header&text=tifagg&fontSize=75&fontColor=eeeeee&animation=fadeIn&fontAlignY=50&desc=somewhere%20on%20the%20internet&descSize=13&descAlignY=72](https://capsule-render.vercel.app/api?type=venom\&color=0:080808,50:171717,100:303030\&height=190\&section=header\&text=tifagg\&fontSize=75\&fontColor=eeeeee\&animation=fadeIn\&fontAlignY=50\&desc=somewhere%20on%20the%20internet\&descSize=13\&descAlignY=72)" width="100%" />
-\</p>
-
-\<p align="center">
-&#x20; \<code>human.exe\</code> · \<code>curious by default\</code> · \<code>under construction\</code>
-\</p>
-
-\<p align="center">
-&#x20; \<a href="[https://github.com/tifagg](https://github.com/tifagg)">[ home ]\</a>&#x20;
-&#x20; \<a href="[https://github.com/tifagg?tab=repositories](https://github.com/tifagg?tab=repositories)">[ archive ]\</a>
-&#x20; \<a href="[https://github.com/tifagg?tab=stars](https://github.com/tifagg?tab=stars)">[ bookmarks ]\</a>
-\</p>
+\<div align="center">   \<sub>PERSONAL INTERFACE &nbsp; / &nbsp; SESSION 001\</sub>   \<br/>\<br/>   \<code>online\</code> &nbsp; \<code>curious\</code> &nbsp; \<code>under construction (as usual)\</code> \</div>
 
 ---
 
-```console
-guest@tifagg:~$ ./hello-world
+```text
+tifagg@internet:~$ ./hello
+
+oh, hi. didn't expect you here.
+
+welcome to my little corner of github.
 ```
 
-Hi, internet stranger.
+hi, i'm tiffany.
 
-I'm Tifa. I spend an unreasonable amount of time being curious about things.
+i like computers, figuring out how things work, going down incredibly specific internet rabbit holes and occasionally getting distracted by something completely unrelated.
 
-Interested in computers, the internet, obscure ideas, creative experiments and figuring out how stuff works.
+mostly here to learn, experiment, break stuff (figuratively, pls) and see where curiosity takes me.
 
-No particular destination. Just exploring.
+anyway. enough yapping. explore.
 
-```console
-guest@tifagg:~$ _
+### `01 / whoami`
+
+\<details>
+\<summary>\<code>$ whoami\</code>\</summary>
+
+```text
+name       : tifa
+username   : tifagg
+occupation : student / perpetual learner
+personality: curious, analytical, occasionally unhinged
+status     : figuring it out
 ```
 
-### `01. / a little about me`
+i don't really have everything figured out. nor do i particularly want to.
+
+there's always something interesting to learn, something new to try or some obscure topic to spend three hours researching for absolutely no reason.
+
+\</details>
+
+### `02 / brain_dump`
 
 \<details>
-\<summary>whoami — click to unfold\</summary>
+\<summary>\<code>$ ls \~/interests/\</code>\</summary>
 
-- Curious about almost everything.
-- Into software, technology and computer science.
-- Enjoy experimenting, learning and taking things apart conceptually.
-- Fond of weird websites, internet rabbit holes and digital aesthetics.
-- Probably opening another browser tab right now.
+```text
+~/interests/
+│
+├── computer-science/
+├── software-and-systems/
+├── linux-and-open-source/
+├── artificial-intelligence/
+├── cybersecurity/
+├── chess-and-strategy/
+├── visual-design/
+├── creative-coding/
+├── music/
+└── internet-culture/
+```
+
+a collection of things i keep coming back to. subject to change whenever my brain discovers another rabbit hole.
 
 \</details>
+
+### `03 / environment`
 
 \<details>
-\<summary>interests.exe — things that occupy my brain\</summary>
+\<summary>\<code>$ neofetch --user\</code>\</summary>
 
-`01` Software & computer science
+**languages & stuff i've been messing with**
 
-`02` Linux & open-source culture
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python,cpp,rust,bash,js,ts,lua,html,css](https://skillicons.dev/icons?i=python,cpp,rust,bash,js,ts,lua,html,css)" />
+\</p>
 
-`03` Artificial intelligence
+**tools & environments**
 
-`04` Cybersecurity
+\<p>
+\<img src="[https://skillicons.dev/icons?i=linux,git,github,vscode,react,nextjs,nodejs,electron,tailwind](https://skillicons.dev/icons?i=linux,git,github,vscode,react,nextjs,nodejs,electron,tailwind)" />
+\</p>
 
-`05` Chess, strategy & pattern recognition
-
-`06` Music, visual design & creative coding
-
-`07` The indie web & internet nostalgia
-
-\</details>
-
-\<details> \<summary>loadout — languages & tools I've explored\</summary>
-
-\<p align="center"> \<img src="[https://skillicons.dev/icons?i=python,cpp,rust,bash,js,ts,lua,html,css,react,nextjs,tailwind,nodejs,electron,linux,git,github&perline=6](https://skillicons.dev/icons?i=python,cpp,rust,bash,js,ts,lua,html,css,react,nextjs,tailwind,nodejs,electron,linux,git,github\&perline=6)" /> \</p>
-
-*An evolving collection. Still learning, still experimenting.*
+\<sub>not a flex list. just things i've explored, used or am learning.\</sub>
 
 \</details>
 
-### `02. / current_status`
+### `04 / currently.exe`
+
+\<details>
+\<summary>\<code>$ cat ./current_status\</code>\</summary>
 
 ```yaml
-user: tifagg
-location: somewhere in cyberspace
-occupation: student / explorer
-status: figuring things out
-
 currently:
+  doing: exploring
   learning: always
-  exploring: constantly
-  overthinking: probably
-  sleep_schedule: questionable
+  thinking: too much
+  tabs_open: concerning
 
-alignment: chaotic curious
-```
+long_term_goal: figure out how everything works
 
-### `03. / github_activity`
-
-\<p align="center"> \<img src="[https://github-readme-stats.vercel.app/api?username=tifagg&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&icon_color=999999&text_color=aaaaaa](https://github-readme-stats.vercel.app/api?username=tifagg\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=aaaaaa\&icon_color=999999\&text_color=aaaaaa)" width="49%" /> \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tifagg&layout=compact&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=aaaaaa](https://github-readme-stats.vercel.app/api/top-langs/?username=tifagg\&layout=compact\&theme=transparent\&hide_border=true\&title_color=aaaaaa\&text_color=aaaaaa)" width="49%" /> \</p>
-
-### `04. / open_a_random_drawer`
-
-\<details> \<summary>drawer_001.txt — a philosophy\</summary>
-
-Learn things because they're interesting.
-
-Make things because you can.
-
-Understand things because you want to.
-
-Not everything needs to become a career, a productivity hack or a five-year plan.
-
-\</details>
-
-\<details> \<summary>drawer_002.txt — a system error\</summary>
-
-```text
-ERROR 404: life instructions not found.
-
-Attempting to figure it out...
-
-[████████░░] 80%
-
-STATUS: still loading.
+status: still loading...
 ```
 
 \</details>
 
-\<details>
-\<summary>drawer_003.txt — classified information\</summary>
+### `05 / github_activity`
 
-You have successfully wasted approximately 4 seconds opening this.
+\<details> \<summary>\<code>$ git status\</code>\</summary>
 
-Congratulations.
+\<p align="center"> \<img src="[https://github-readme-stats.vercel.app/api?username=tifagg&show_icons=true&hide_border=true&bg_color=00000000&title_color=aaaaaa&text_color=999999&icon_color=aaaaaa](https://github-readme-stats.vercel.app/api?username=tifagg\&show_icons=true\&hide_border=true\&bg_color=00000000\&title_color=aaaaaa\&text_color=999999\&icon_color=aaaaaa)" width="85%" /> \</p>
+
+\<p align="center"> \<a href="[https://github.com/tifagg?tab=repositories](https://github.com/tifagg?tab=repositories)">repositories\</a> · \<a href="[https://github.com/tifagg?tab=stars](https://github.com/tifagg?tab=stars)">stars\</a> · \<a href="[https://github.com/tifagg?tab=activity](https://github.com/tifagg?tab=activity)">activity\</a> \</p>
 
 \</details>
 
-### `05. / digital_footprints`
+### `06 / miscellaneous`
 
-\<p align="center">   \<a href="[https://github.com/tifagg?tab=repositories](https://github.com/tifagg?tab=repositories)">explore my repositories ↗\</a>   \<br/>   \<a href="[https://github.com/tifagg?tab=stars](https://github.com/tifagg?tab=stars)">browse my bookmarks ↗\</a>   \<br/>   \<a href="[https://github.com/tifagg?tab=activity](https://github.com/tifagg?tab=activity)">observe my activity ↗\</a> \</p>
+\<details> \<summary>\<code>$ cat ./random.txt\</code>\</summary>
+
+- chess brainrot.
+- an unreasonable appreciation for well-designed websites.
+- music always playing somewhere.
+- probably researching something that has nothing to do with what i was supposed to be doing.
+- terminal aesthetics. obviously.
+
+\</details>
 
 ---
 
-\<details>
-\<summary>\<code>sudo reveal_final_message\</code>\</summary>
-
 ```text
-hey, you made it to the bottom.
+tifagg@internet:~$ exit
 
-thanks for visiting this little corner
-of the internet.
-
-stay curious. stay weird.
-
-~ tifagg
+alright, that's about it.
+thanks for snooping around :p
 ```
 
-\</details>
-
-\<p align="center">   \<sub>this page is perpetually under construction. just like its owner.\</sub>   \<br/>   \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:303030&height=3&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:080808,100:303030\&height=3\&section=footer)" width="100%" />   \<br/>   \<code>connection terminated // see you around.\</code> \</p>
+\<div align="center">   \<sub>still figuring things out. always will be, probably.\</sub>   \<br/>\<br/>   \<code>END OF SESSION // tifagg\</code> \</div>
