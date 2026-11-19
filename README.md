@@ -33,7 +33,6 @@ anyway. enough yapping. explore.
 
 ```text
 name       : Tiffany
-alias      : Tifa
 username   : tifagg
 occupation : student / perpetual learner
 status     : figuring it out
