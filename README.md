@@ -1,7 +1,7 @@
 # `tifagg@internet:~$`
 
 <div align="center">
-  <sub>PERSONAL INTERFACE &nbsp; / &nbsp; SESSION 001</sub>
+  <sub>a little corner of the internet</sub>
   <br/><br/>
   <code>online</code> &nbsp; <code>curious</code> &nbsp; <code>under construction (as usual)</code>
   <br/><br/>
@@ -104,7 +104,7 @@ currently:
 
 long_term_goal: figure out how everything works
 
-status: operational-ish
+status: ongoing
 ```
 
 </details>
@@ -155,6 +155,4 @@ thanks for stopping by :p
   <sub>still figuring things out. always will be, probably.</sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:292929,100:080808&height=2&section=footer" width="100%" />
-  <br/><br/>
-  <code>END OF SESSION // tifagg</code>
 </div>
